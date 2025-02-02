@@ -19,4 +19,4 @@
 - You will want to get as much hands-on practice as possible.
 
 # SOFTWARES USED
-- Visual Studio Code: but any other IDE or Code Editor is fine.
+- Visual Studio Code: but any other IDE or Code Editor is good for this course.
